@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    margin: 1em;
+    margin-bottom: 0;
+    width: 30em;
+    border: solid 1px #ddd;
+}
+
+
+.header{
+    height: 5em;
+    padding: 5em;
+    font-size: 2em;
+    margin-bottom: 1em;
+    color: white;
+    background-image:url("../imgs/frutas-header3.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+
+.header h1{
+    margin: 0px;
+    font-weight: 400;
+}
+
+.products{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 2em;
+}
+
+
+.bloque-texto{
+    display: inline-block;
+    margin-left: 90px;
+
+
+
+}
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    }
+
+
